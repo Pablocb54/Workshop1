@@ -1,0 +1,40 @@
+h1{
+    color: rgb(252, 216, 11);
+    text-align:center;
+}
+
+h2{
+    color: rgb(6, 182, 15);
+    text-align:center;
+}
+
+h3{
+    color: rgb(6, 182, 15);
+    text-align:center;
+}
+
+p{
+    font-size: larger;
+    color: black;background-color: rgb(23, 128, 84);
+    padding: 15px;
+    text-align:center;
+}
+
+a{
+    font-size: xx-large;
+    color: rgb(13, 29, 171);
+}
+iframe{
+    text-align:center;
+}
+
+.contenedor{
+
+    font-size: 5rem;
+
+}
+span{
+
+    color:crimson ;
+}
+
